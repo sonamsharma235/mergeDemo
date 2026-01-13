@@ -1,5 +1,5 @@
 public class ram {
     public static void main(String[] args) {
-        System.out.println("ram ram !");
+        System.out.println("Ram Ram");
     }
 }
